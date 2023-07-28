@@ -1,0 +1,26 @@
+.menu{
+	-fx-background-color: linear-gradient(to top, #4975b2, #7072ab);
+}
+.exit{
+	-fx-background-color: transparent;
+	-fx-font-size: 25px;
+	-fx-border-color: transparent;
+	-fx-font-weight: bold;
+}
+.exit:hover{
+	-fx-border-color: white;
+}
+.button{
+	-fx-background-color: transparent;
+	-fx-font-size: 15px;
+	-fx-border-color: transparent;
+	-fx-font-weight: bold;
+}
+.button:hover{
+	-fx-border-color: white;
+}
+.name{
+	-fx-text-fill:white;
+	-fx-font-size: 15px;
+	-fx-font-weight: bold;
+}

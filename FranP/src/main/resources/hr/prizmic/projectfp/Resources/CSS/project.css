@@ -1,0 +1,21 @@
+.table{
+	-fx-background-color: #4975b2;
+}
+.table:hover{
+	-fx-background-color: #7072ab;
+}
+.bt{
+	-fx-font-weight: bold;
+	-fx-font-size: 15;
+	-fx-alignment: center;
+	-fx-border-color: #4975b2;
+	-fx-border-width: 3;
+	-fx-background-color: transparent;
+}
+.bt:hover{
+	-fx-border-color: #7072ab;
+}
+.price{
+	-fx-font-weight:bold;
+	-fx-font-size:20;
+}

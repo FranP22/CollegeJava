@@ -1,0 +1,18 @@
+.main-pane{
+	-fx-background-color: linear-gradient(to top, #4975b2, #7072ab);
+}
+.pane{
+	-fx-background-color: white;
+	-fx-alignment: center;
+}
+.txt{
+	-fx-font-weight: bold;
+	-fx-font-size: 15;
+	-fx-alignment: center;
+	-fx-border-color: white white linear-gradient(to right, #4975b2, #7072ab) white;
+	-fx-border-width: 3;
+}
+.register-button{
+	-fx-background-color: transparent;
+	-fx-text-fill: linear-gradient(to right, #4975b2, #7072ab);
+}
